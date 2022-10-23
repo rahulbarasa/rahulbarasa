@@ -1,4 +1,4 @@
-<img align="center" alt="banner" width="1600"  src="https://miro.medium.com/max/720/1*4rwQRMjCA7pR4dlnI9wiuw.png">
+<img align="center" alt="banner" width="1600"  src="https://miro.medium.com/max/720/1*mxI7kVkhIEkFkAEMsX-7Mg.jpeg">
 <h1 align="center">Hi 👋, I'm Rahul Barasa</h1>
 <h3 align="center">A passionate frontend developer & Fresher Mobile app developer from India</h3>
 <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
