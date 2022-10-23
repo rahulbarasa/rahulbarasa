@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rbarasa800@gmail.com**
 
-- ⚡ Fun fact **I'm act like I don't know anything**
+- ⚡ Fun fact **Act like I don't know anything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
